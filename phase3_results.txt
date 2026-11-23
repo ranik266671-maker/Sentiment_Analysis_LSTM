@@ -1,0 +1,23 @@
+IMDB SENTIMENT ANALYSIS RESULTS
+Test Accuracy: 82.42%
+Test Loss: 0.4173
+
+Review 1: This movie was absolutely amazing. The story was interesting from beginning to end. The actors performed brilliantly, the direction was excellent, and the background music made every scene enjoyable. I would definitely recommend this movie to everyone.
+Prediction: Positive
+Positive probability: 92.39%
+
+Review 2: I was very disappointed with this movie. The story was boring and predictable. The acting was poor, the dialogues were weak, and the direction was not impressive. I wasted my time watching it and would not recommend it.
+Prediction: Negative
+Positive probability: 2.53%
+
+Review 3: At first, I thought this movie would be terrible because the trailer was not impressive. However, the story became interesting after the first few scenes. The actors performed naturally, the music was good, and the ending was satisfying. Overall, I really enjoyed it.
+Prediction: Negative
+Positive probability: 44.39%
+
+Review 4: The movie had some good moments, but most of the story was disappointing. The acting was average, the screenplay was slow, and several scenes felt unnecessary. Although the cinematography was beautiful, it could not save the weak storyline. I would not watch it again.
+Prediction: Negative
+Positive probability: 35.44%
+
+Review 5: I did not expect much from this movie, but it surprised me. The characters were well developed, the story was engaging, and the performances were excellent. Although a few scenes were slow, the overall experience was enjoyable. It was definitely worth watching.
+Prediction: Positive
+Positive probability: 97.06%
